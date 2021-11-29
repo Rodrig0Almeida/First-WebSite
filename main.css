@@ -1,5 +1,7 @@
 header{
-    background: gray;
+    position: fixed;
+    width: 100%;
+    background: white;
     box-shadow: 0 20px 20px 0px #efe8e8;
 }
 .topo{
