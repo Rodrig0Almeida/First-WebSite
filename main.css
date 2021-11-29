@@ -1,3 +1,17 @@
-#background{
-    width: 100%;
+header{
+    background: gray;
+    box-shadow: 0 20px 20px 0px #efe8e8;
+}
+.topo{
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+nav img{
+    margin-top: -9px;
 }
