@@ -46,3 +46,7 @@ main{
     color: #282828;
     font-weight: bold;
 }
+.conteudo a{
+    margin: 25px 0 0;
+    text-decoration: none;
+}
