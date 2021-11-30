@@ -38,5 +38,11 @@ main{
         
 }
 .conteudo p{
-    margin: 10px 0 0 4px;
+    margin: 15px 0 0 3px;
+}
+.conteudo h3{
+    margin: 25px 0 0;
+    font-size: 30px;
+    color: #282828;
+    font-weight: bold;
 }
