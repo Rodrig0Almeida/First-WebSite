@@ -1,10 +1,14 @@
 body{
-    background-image: url(http://www.pngmagic.com/product_images/blue-background-images-for-websites.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg);
+    background-size: cover;
 }
 header{
     width: 100%;
     background: white;
     box-shadow: 0 20px 20px 0px #00000026;
+    background-color: rgba(255, 255, 255, 0.100);
+    backdrop-filter:  blur(15px);
+    -webkit-backdrop-filter: blur(15px);   
 }
 .topo{
     position: relative;
@@ -26,12 +30,15 @@ main{
     margin: 0 auto;
 }
 .caixa-conteudo{
+    color: white;
     padding: 68px 0;
     border-radius: 20px;
-    background: #ffffff;
     box-shadow: 0 20px 20px 15px #00000026;
+    background-color: rgba(255, 255, 255, 0.100);
+    backdrop-filter:  blur(15px);
+    -webkit-backdrop-filter: blur(15px);   
 }
-.conteudo{
+.conteudo{ 
     position: relative;
     width: 90%;
     margin: 0 auto;
@@ -40,7 +47,6 @@ main{
 }
 .conteudo h2{
     font-size: 40px;
-    color: #282828;
     font-weight: bold;
         
 }
@@ -48,12 +54,11 @@ main{
     margin: 15px 0 0 3px;
 }
 .conteudo h3{
-    margin: 25px 0 0;
+    margin: 56px 0 0;
     font-size: 23px;
-    color: #282828;
     font-weight: bold;
 }
 .conteudo a{
-    margin: 25px 0 0;
+    margin: 19px 0 0;
     text-decoration: none;
 }
